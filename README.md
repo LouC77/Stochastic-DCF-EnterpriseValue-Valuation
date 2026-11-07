@@ -72,6 +72,6 @@ $P_5$ to $P_{95}$ covers the central 90% of simulated outcomes.
 
 ## Limitations & Possible Extensions
 
-This is a proof-of-concept and has several simplifications:
+This is a proof-of-concept and has simplification:
 
 * **Only revenue growth is stochastic.** Other parameters, such as WACC and EBIT margin, are held constant, so the simulated distribution likely understates total valuation uncertainty.
